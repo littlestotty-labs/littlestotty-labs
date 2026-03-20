@@ -8,5 +8,5 @@ My focus for github will likely cover
   - Node-Red for most Automation.
   - Zigbee->MQTT2 via ConbeeIII
 - Learning labs and side projects
-  - Co-pilot, AI still/Skills - as I learn I might save here. 
+  - Co-pilot, AI Learnings/Skills - as I learn I might save here. 
 - Maybe SAS stuff - Utility stuff mostly.
