@@ -1,8 +1,5 @@
-👋 Hi, I’m Graham.
-
-This account contains **personal projects only**:
-- Copilot experiments & prompt engineering
-- Home Assistant dashboards & automations
+Hi, I’m Graham. Tech Guy, all things code - my speciality for 30 years has been SAS.
+My focus for github will likely cover
+- Home Assistant dashboards, Themes & my node-red json
 - Learning labs and side projects
-
-🚫 No corporate or client work lives here.
+- Maybe SAS stuff
